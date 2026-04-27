@@ -1,5 +1,5 @@
 # 👋 Hi, I'm [WANG]
-<!-- 个性化签名，比如「后端golang萌新、四年运维菜鸟」 -->
+<!-- 个性化签名，「后端golang萌新、四年运维菜鸟」 -->
 💻 gopher、ops | 🚀 go/k8s/ops 实践者 | 🎮 游戏爱好者
 
 <!-- 技术栈徽章（复用你之前的居中代码） -->
@@ -21,16 +21,16 @@
 </div>
 
 ## 📌 关于我
-- 🔭 目前专注于：[你的技术方向，「yunshu运维平台开发」]
+- 🔭 目前专注于：[技术方向，「yunshu运维平台开发」]
 - 🌱 学习中：[正在学的技术，如「golang、gin、k8s源码」]
-- 💬 擅长：[技术领域，如「大厂运维」]
-- 📫 联系我：[邮箱/博客/公众号，如 `rootwxd@163.com` | [个人博客](https://blog.csdn.net/weixin_50902636?type=blog)]
+- 💬 擅长：[技术领域，「系统运维、k8s运维、售后项目经理等」]
+- 📫 联系我：[邮箱/博客/公众号， `rootwxd@163.com` | [个人博客](https://blog.csdn.net/weixin_50902636?type=blog)]
 
 ## 📊 我的 GitHub 数据
 <!-- 自动生成的 GitHub 统计卡片 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical" alt="常用语言" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rootwxd@163.com&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootwxd@163.com&layout=compact&theme=radical" alt="常用语言" style="width: 48%;"/>
 </div>
 
 ## 🌟 重点项目
