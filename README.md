@@ -4,16 +4,22 @@
 
 <!-- 技术栈徽章（复用你之前的居中代码） -->
 <div align="center" style="letter-spacing: 2px; margin: 20px 0;">
-  <!-- 前端 -->
-  <img src="https://img.shields.io/badge/-Vue3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pinia-FFD43B?style=flat-square&logo=pinia&logoColor=black" />
-  <!-- 后端 -->
-  <br/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<!-- 运维 / 云原生 / 容器 -->
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white" />
+<img src="https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<!-- 数据库 / 中间件 -->
+<br/>
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<!-- 项目管理 / 售后运维 -->
+<br/>
+<img src="https://img.shields.io/badge/-售后运维-6A73D1?style=flat-square" />
+<img src="https://img.shields.io/badge/-项目管理-2393D4?style=flat-square" />
+<img src="https://img.shields.io/badge/-政企项目-FF5722?style=flat-square" />
   <!-- 趣味标签 -->
   <img src="https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white" />
 </div>
